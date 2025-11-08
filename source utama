@@ -1,0 +1,10 @@
+#CollectionInterface.php
+#ListInterface.php
+#MapInterface.php
+#QueueInterface.php
+ArrayList.php
+HashMap.php
+Queue.php
+Stack.php
+autoload.php
+main.php
