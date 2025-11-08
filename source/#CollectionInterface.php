@@ -1,8 +1,8 @@
 <?php
-interface Koleksi
+interface CollectionInterface
 {
-    public function tambah($benda);
-    public function buka($benda);
-    public function tingginya();
-    public function mendapatkanSemua();
+    public function add($item);
+    public function remove($item);
+    public function size();
+    public function getAll();
 }
